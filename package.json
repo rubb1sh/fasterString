@@ -1,5 +1,5 @@
 {
-  "name": "faster-string-dd",
+  "name": "ruby-faster-string-dd",
   "version": "1.0.2",
   "description": "the more faster String Utils",
   "main": "index.js",
