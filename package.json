@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "user": "^0.0.0",
-	"hyper-design-svg-util": "1.0.0"
+	"ruby-design-svg-util": "1.0.1"
   }
 }
