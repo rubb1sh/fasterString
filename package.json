@@ -1,0 +1,15 @@
+{
+  "name": "faster-string-dd",
+  "version": "1.0.2",
+  "description": "the more faster String Utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "user": "^0.0.0",
+	"hyper-design-svg-util": "1.0.0"
+  }
+}
